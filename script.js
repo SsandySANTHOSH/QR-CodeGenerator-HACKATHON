@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     const generateButton = document.getElementById("generate");
+    
     const downloadLink = document.getElementById("download");
     const qrCodeContainer = document.getElementById("qr-code");
 
